@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{index.html}
+= EE 201 --- Fundamentals of computer systems and engineering
+
+Welcome to EE 201!
+
+This course provides a fast-paced introduction to digital systems and computer architecture for master's students whose undergraduate background did not include this material.  We start with the basics of ones and zeros, then move quickly to more complex digital systems and ultimately implement a fully-functional microprocessor using VHDL on an FPGA.  Along the way, we explore instruction set architectures and assembly programming, memory and caches, operating systems, and various techniques for interfacing computers to sensors, other computers, and the "real world".
+
+* Notices *
+~~~
+{1 November 2018}
+
+Registration opens November 13.
+~~~
+
